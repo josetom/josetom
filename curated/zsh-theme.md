@@ -26,6 +26,6 @@ vi jose.zsh-theme
 Add the above theme snippet
 
 ```
-omz theme jose
+omz theme set jose
 omz reload
 ```
